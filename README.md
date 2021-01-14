@@ -1,6 +1,8 @@
 # MSTAR Datasheets
 Collection of hard to find datasheets for MStar ICs.
 
+See more at https://blog.obsoletemadness.com/2021/01/02/mstar-datasheets/
+
 If you have any please feel free to submit a Pull Request. 
 
 If you look on line (*cough* http://en.pudn.com/ *cough*) you'll likely come across some source code to various
